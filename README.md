@@ -12,6 +12,6 @@ Other frameworks I've used: Rails, Sinatra, React, Express, Django, Flask
 Frameworks I want to try: Hotwire
 
 ### Elsewhere
-- [https://graceteng.me/](https://graceteng.me/)
+- [Personal site](https://graceteng.me/)
 - [LinkedIn](https://www.linkedin.com/in/graceteng89/)
 - [Mastodon](https://mastodon.graceteng.me/@grace)
